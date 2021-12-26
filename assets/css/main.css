@@ -2189,6 +2189,15 @@ input, select, textarea {
 			margin: 0 0 1.25em 1.5em;
 			top: 0.25em;
 		}
+		
+		.image.center {
+			  display: block;
+			  margin: 0 0 1.25em 1.5em;
+			  margin-left: auto;
+			  margin-right: auto;
+			  top: 0.25em;
+			  width: 50%;
+			}
 
 		.image.fit {
 			display: block;
